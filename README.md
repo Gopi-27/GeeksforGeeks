@@ -1,2 +1,2 @@
 # GeeksforGeeks
-My solution GeeksforGeeks Problems
+My solutions to GeeksforGeeks Problems
